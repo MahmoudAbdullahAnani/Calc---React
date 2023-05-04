@@ -54,7 +54,7 @@ function App() {
               *
             </button>
             <button
-              className="bg-red-400 px-7 p-3 hover:bg-red-600 text-white"
+              className="bg-red-400 p-3 px-7 hover:bg-red-600 text-white"
               onClick={() => update("-")}
             >
               -
